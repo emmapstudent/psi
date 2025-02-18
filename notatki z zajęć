@@ -1,3 +1,13 @@
 https://docs.google.com/document/d/1fu-4WiLVBIwj7JKmJ2qiM9_sjx03uHNORmhYUcMAWg4/edit?usp=sharing //18.02
 
+//Zad 4
+przeciwprostokatna = function(a,b) {
+  pp = sqrt(a^2 + b^2)
+  return(pp)
+}
+
 //Zad 3
+pole_kola = function(r) {
+  pole = 3.14*r^2
+  return(pole)
+}
